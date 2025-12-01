@@ -284,10 +284,6 @@ Full-stack site with authentication, cart, and checkout flow.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sreenaddh&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=EC4899&text_color=FFFFFF&rank_icon=github" alt="GitHub Stats" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sreenaddh&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF&langs_count=8" alt="Top Languages" height="180"/>
-
 <br/>
 <br/>
 
