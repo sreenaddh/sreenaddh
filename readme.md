@@ -1,13 +1,41 @@
+<div align="center">
+
 # 👋 Hi, I'm Sreenadh Manmadhan
 
-<div align="center">
-  
-  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=600&lines=Software+Developer;Web+Designer;Front-end+Developer;AI+%26+ML+Enthusiast)
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sreenaddh)
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sreenaddh)
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sreenaddh)
-  [![Email](https://img.shields.io/badge/Email-22C55E?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sreenadhmanmadhan@gmail.com)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=600&lines=Software+Developer;Web+Designer;Front-end+Developer;AI+%26+ML+Enthusiast)
+
+<br/>
+
+### Software Developer, Web Designer and Front-end Developer
+
+<br/>
+
+<!-- Custom styled buttons mimicking portfolio -->
+<a href="https://drive.google.com/file/d/1tHibT38snp6OF41zJmsd66VQggmW8Ogt/view?usp=sharing">
+  <img src="https://img.shields.io/badge/📥_Download_Resume-FFFFFF?style=for-the-badge&logoColor=black" alt="Download Resume"/>
+</a>
+
+<br/>
+<br/>
+
+<!-- Social Media Icons with Portfolio Colors -->
+<a href="https://github.com/sreenaddh">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/sreenaddh">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://www.instagram.com/sreenaddh">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+<a href="mailto:sreenadhmanmadhan@gmail.com">
+  <img src="https://img.shields.io/badge/Email-22C55E?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<br/>
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=sreenaddh&color=A855F7&style=for-the-badge&label=Profile+Views)
 
 </div>
 
@@ -55,35 +83,95 @@ A **Computer Science Engineering graduate** with a strong foundation in **Python
 
 ## 🎯 Featured Projects
 
-<div align="center">
+<table>
+<tr>
+<td width="50%">
 
-### 🎙️ [SoundWave](https://github.com/sreenaddh/SoundWave)
-**AI-powered speech assistance tool for people with stuttering**  
-Combines Vosk ASR, GPT-2, and YourTTS for real-time speech assistance
-> `Python` `AI/ML` `Deep Learning` `Speech Processing`
+### 🎙️ SoundWave
+  
+**AI-powered speech assistance tool**
 
----
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![AI/ML](https://img.shields.io/badge/AI%2FML-A855F7?style=flat-square)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-EC4899?style=flat-square)
 
-### 🌿 [Medicinal Herb Identification](https://github.com/sreenaddh/Medicinal-Herb-Identification)
-**Deep learning system for herb classification**  
-Image classification using CNN architectures
-> `Python` `TensorFlow` `Computer Vision` `Deep Learning`
+Combines Vosk ASR, GPT-2, and YourTTS for real-time speech assistance for people with stuttering.
 
----
+<p align="center">
+  <a href="https://github.com/sreenaddh/SoundWave">
+    <img src="https://img.shields.io/badge/⚡_View_Project-A855F7?style=for-the-badge" alt="View Project"/>
+  </a>
+</p>
 
-### 🍽️ [Surya Catering](https://github.com/sreenaddh/Surya-Catering-Website) | [Live Demo](https://www.suryacatering.online/)
-**Fully responsive catering service website**  
-Modern design with animations and SEO optimization
-> `Flutter Web` `Dart` `Responsive Design`
+</td>
+<td width="50%">
 
----
+### 🌿 Medicinal Herb Identification
+  
+**Deep learning system for herb classification**
 
-### 👕 [UrbanThreads](https://github.com/sreenaddh/UrbanThreads-Clothing-Site) | [Live Demo](https://urbanthreadss.vercel.app/)
-**Modern clothing e-commerce platform**  
-Full-stack site with authentication, cart, and checkout
-> `React` `Express.js` `Node.js` `MySQL`
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![CV](https://img.shields.io/badge/Computer_Vision-EC4899?style=flat-square)
 
-</div>
+Image classification using CNN architectures for medicinal herb identification.
+
+<p align="center">
+  <a href="https://github.com/sreenaddh/Medicinal-Herb-Identification">
+    <img src="https://img.shields.io/badge/⚡_View_Project-A855F7?style=for-the-badge" alt="View Project"/>
+  </a>
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🍽️ Surya Catering
+  
+**Fully responsive catering website**
+
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Responsive](https://img.shields.io/badge/Responsive-A855F7?style=flat-square)
+
+Modern design with animations and SEO optimization built with Flutter Web.
+
+<p align="center">
+  <a href="https://github.com/sreenaddh/Surya-Catering-Website">
+    <img src="https://img.shields.io/badge/⚡_GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  <a href="https://www.suryacatering.online/">
+    <img src="https://img.shields.io/badge/🌐_Live_Demo-A855F7?style=for-the-badge" alt="Live Demo"/>
+  </a>
+</p>
+
+</td>
+<td width="50%">
+
+### 👕 UrbanThreads
+  
+**Modern e-commerce platform**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Express](https://img.shields.io/badge/Express-404D59?style=flat-square&logo=express&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+Full-stack clothing site with authentication, cart, and checkout flow.
+
+<p align="center">
+  <a href="https://github.com/sreenaddh/UrbanThreads-Clothing-Site">
+    <img src="https://img.shields.io/badge/⚡_GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  <a href="https://urbanthreadss.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐_Live_Demo-A855F7?style=for-the-badge" alt="Live Demo"/>
+  </a>
+</p>
+
+</td>
+</tr>
+</table>
 
 ---
 
