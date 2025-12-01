@@ -407,21 +407,6 @@ Full-stack site with authentication, cart, and checkout flow.
 
 <br/>
 
-<div align="center">
-
-```mermaid
-graph LR
-    A[2022-2025] -->|Chief Creative Officer| B[IEDC CEC]
-    C[May 2023] -->|Full Stack Intern| D[DevFactory]
-    E[Jul 2024] -->|ML Intern| F[Academy of Skill Development]
-    
-    style B fill:#A855F7,stroke:#EC4899,color:#fff
-    style D fill:#A855F7,stroke:#EC4899,color:#fff
-    style F fill:#A855F7,stroke:#EC4899,color:#fff
-```
-
-</div>
-
 <br/>
 
 <table>
