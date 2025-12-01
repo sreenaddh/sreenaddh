@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Banner Image -->
-<img src="(https://raw.githubusercontent.com/sreenaddh/sreenaddh/main/assets/banner.png)" alt="Sreenadh Manmadhan - Software Developer, Web Designer and Front-end Developer" width="100%"/>
+<img src="(https://raw.githubusercontent.com/sreenaddh/sreenaddh/assets/banner.png)" alt="Sreenadh Manmadhan - Software Developer, Web Designer and Front-end Developer" width="100%"/>
 
 <br/>
 <br/>
