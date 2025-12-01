@@ -1,13 +1,9 @@
 <div align="center">
 
-# 👋 Hi, I'm Sreenadh Manmadhan
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=600&lines=Software+Developer;Web+Designer;Front-end+Developer;AI+%26+ML+Enthusiast)
+<!-- Banner Image -->
+<img src="(https://raw.githubusercontent.com/sreenaddh/sreenaddh/main/assets/banner.png)" alt="Sreenadh Manmadhan - Software Developer, Web Designer and Front-end Developer" width="100%"/>
 
 <br/>
-
-### Software Developer, Web Designer and Front-end Developer
-
 <br/>
 
 <!-- Custom styled buttons mimicking portfolio -->
@@ -55,29 +51,21 @@ A **Computer Science Engineering graduate** with a strong foundation in **Python
 
 ## 💻 Tech Stack
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<div align="center">
 
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+### 💡 Languages
 
-### Tools & Technologies
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,c,cs,javascript,java,dart,mysql&theme=dark" />
+
+### 🚀 Frameworks & Libraries
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,flutter,tensorflow&theme=dark" />
+
+### 🛠️ Tools & Technologies
+
+<img src="https://skillicons.dev/icons?i=git,vscode,figma,photoshop,illustrator&theme=dark" />
+
+</div>
 
 ---
 
